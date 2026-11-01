@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: short-answer-keeps-sources
+expected_outcome: |
+  A short answer (two or three sentences) based only on desk-research.md: records were
+  inaccurate for about 65% of audited items, errors were common for frequently delivered
+  items, with the source link kept. Says nothing was found for other stock apps
+  (question 5). No preamble, no padding, no invented facts.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,19 @@
+{
+  "name": "token-saver",
+  "owner": {
+    "name": "ladansojudi",
+    "url": "https://github.com/ladansojudi"
+  },
+  "metadata": {
+    "description": "Token-saving skill for Claude, based on Anthropic's official usage guidance",
+    "version": "1.2.0"
+  },
+  "plugins": [
+    {
+      "name": "token-saver",
+      "description": "Lean answers that keep every source, a hand-off to a fresh chat, and a read-only audit of what loads tokens on every turn.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

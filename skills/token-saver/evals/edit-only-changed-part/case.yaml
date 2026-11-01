@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: edit-only-changed-part
+expected_outcome: |
+  Rewrites only the "Why now" section of brief.md so it says users talk about wrong stock
+  and mismatches after deliveries, and shows only that section (or edits only that
+  section in the file). Does not print the whole brief back and keeps the other sections
+  unchanged.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,9 @@
+case	arm	tokens	tool_uses	ms
+short-answer-keeps-sources	with	65736	3	6257
+edit-only-changed-part	with	65909	4	7117
+short-answer-keeps-sources	without	64147	2	7088
+edit-only-changed-part	without	64282	3	7477
+handoff-long-chat	without	64590	2	12625
+handoff-long-chat	with	67990	4	23964
+audit-heavy-setup	with	68706	5	31737
+audit-heavy-setup	without	75192	5	37268

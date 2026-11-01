@@ -1,0 +1,1 @@
+- Turn 4, v1.2: found and read desk-research.md (v1.0, v1.1 and the baseline all failed to list the folder at this turn). Downstream files can therefore cite RQ6 desk research; the baseline could not.

@@ -1,0 +1,6 @@
+- RQ1: Whether step 4 confuses others, how often steps happen out of order, and where actual mistakes happen (not just delays).
+- RQ2: Where differences come from apart from short deliveries, and whether anyone follows them up with the supplier.
+- RQ3: Whether counts get lost on the way to the computer, and how common counting away from the shelf is.
+- RQ4: Why the stock numbers are off; neither participant said.
+- RQ5: All of it; no review of other stock apps yet.
+- RQ6: Whether the 65% study covered small shops, and real sources to replace the placeholder links.

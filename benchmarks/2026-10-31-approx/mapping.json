@@ -1,0 +1,18 @@
+{
+  "handoff-long-chat": {
+    "A": "with",
+    "B": "without"
+  },
+  "edit-only-changed-part": {
+    "A": "without",
+    "B": "with"
+  },
+  "audit-heavy-setup": {
+    "A": "with",
+    "B": "without"
+  },
+  "short-answer-keeps-sources": {
+    "A": "without",
+    "B": "with"
+  }
+}

@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: audit-heavy-setup
+expected_outcome: |
+  Runs the read-only audit on ./home and ./project. Reports the 1,871-character skill
+  description that is cut and loaded every turn, the 13 listed skills, the 5 MCP servers,
+  the 262-line CLAUDE.md, the 620-line SKILL.md and the duplicated check-skill. Gives one
+  fix per finding, says which thresholds are judgement calls, points to /usage, and does
+  not delete or edit any file.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: handoff-long-chat
+expected_outcome: |
+  Suggests continuing in a new chat named "Desk Research v2" instead of carrying on here,
+  and writes a short hand-off (at most 15 lines) that points to files instead of copying
+  them: goal, decisions, approved files, open questions, next step. Does not search again
+  for the questions already marked "Not found".

@@ -1,0 +1,4 @@
+- Turn 4, with skill: answered "We haven't done any desk research yet" without checking the folder; desk-research.md was there. Offered a web search instead. Quality failure likely caused by over-applying "read only what the task needs".
+- Turn 4, without skill: same failure ("couldn't list the project folder"; didn't find desk-research.md). So the turn-4 miss is not caused by the skill. Both arms equal on this turn.
+- Turn 6, with skill: topic changed (guide -> synthesis) but no fresh-chat offer. Did the task fully.
+- Turn 9, with skill: offered a fresh chat with a 5-line hand-off after building the dashboard. Accepted: turn 10 goes to a new agent seeded with the hand-off.

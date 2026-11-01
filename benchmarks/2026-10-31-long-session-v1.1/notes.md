@@ -1,0 +1,2 @@
+- Turn 4, v1.1: tried to look for the file; tools could not list the folder (environment). Said "I couldn't check" instead of "it doesn't exist". More honest than v1.0 and baseline, same practical result.
+- Turn 9, v1.1: offered a fresh chat but asked before writing the hand-off. Simulated user said yes (extra turn 9b, counted against the skill).

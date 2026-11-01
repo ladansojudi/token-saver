@@ -1,0 +1,14 @@
+{
+  "name": "token-saver",
+  "version": "1.2.0",
+  "description": "Keeps Claude's usage low without losing quality: lean answers that keep every source, read and edit only what the task needs, hand off to a fresh chat when it grows long, and a read-only audit of what loads tokens on every turn.",
+  "author": {
+    "name": "ladansojudi",
+    "url": "https://github.com/ladansojudi"
+  },
+  "homepage": "https://github.com/ladansojudi/token-saver",
+  "repository": "https://github.com/ladansojudi/token-saver",
+  "license": "Apache-2.0",
+  "keywords": ["tokens", "usage-limits", "cost", "context", "productivity", "agent-skills"],
+  "skills": "./skills/"
+}
